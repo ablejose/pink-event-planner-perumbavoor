@@ -1,0 +1,56 @@
+{
+  "slug": "pink-event-planner-perumbavoor",
+  "name": "Pink Event Planner",
+  "shortName": "Pink",
+  "descriptor": "Event Management",
+  "address": "Vattakattupady, Perumbavoor, Keralam 683542",
+  "area": "Vattakattupady",
+  "city": "Perumbavoor",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "683542",
+  "geo": {
+    "lat": 10.1022754,
+    "lng": 76.486351
+  },
+  "mapsLink": "https://maps.google.com/?cid=15148746093794740517",
+  "phone": "+91 95260 13253",
+  "whatsapp": "919526013253",
+  "rating": 5,
+  "reviewCount": 29,
+  "reviews": [
+    {
+      "name": "Akhil Saju",
+      "rating": 5,
+      "quote": "Pink Event Planners did an amazing job coordinating and managing the event. Everything was handled very professionally, and the stage and arrangements looked absolutely awesome. Highly recommended!"
+    },
+    {
+      "name": "Anila",
+      "rating": 5,
+      "quote": "We had an amazing experience with Pink Event Planner! Everything was beautifully arranged, from the stage decor to the smallest details. Their team was extremely professional, responsive, and understood exactly what we wanted. They made our special day stress-free and truly memorable."
+    },
+    {
+      "name": "jojan GA",
+      "rating": 5,
+      "quote": "I contacted Pink event without seeing their work anywhere and with some doubt in my mind. But Rino was so helpful and very professional in arranging the stage as per my requirement for my kid’s first holy communion. I was very happy seeing him although the event also ensuring there is nothing wrong happens."
+    },
+    {
+      "name": "Aswini Abraham",
+      "rating": 5,
+      "quote": "We are absolutely happy with the stage decor for our baby's baptism! The entire setup was elegant and classy with beautiful floral arrangements. The attention to detail was amazing, from the welcome board to stage and lighting. It created the perfect atmosphere for such a meaningful day."
+    },
+    {
+      "name": "Anju Benny",
+      "rating": 5,
+      "quote": "Had a great experience with Pink Event for our baby’s baptism! Rino handled everything so smoothly and the stage setup looked beautiful. Super easy to work with and very professional. Highly recommend!"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://pink-event-planner-perumbavoor.vercel.app"
+}
